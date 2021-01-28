@@ -1,3 +1,8 @@
+---
+title: "Lesson 2 - EDA"
+excerpt: "Exploratory Data Analysis"
+---
+
 # Hello World!
 Insert explorer image here
 
