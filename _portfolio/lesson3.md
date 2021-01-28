@@ -20,7 +20,7 @@ H1: average housing price or average days employed across population is not the 
 
 `print('hello world)`
 
-```
+```python
 import pandas as pd
 
 df = pd.read_csv('cleaned.csv')
