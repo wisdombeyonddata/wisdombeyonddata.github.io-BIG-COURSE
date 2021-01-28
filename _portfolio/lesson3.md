@@ -4,6 +4,10 @@ excerpt: "Hypothesis Testing"
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
+header:
+  video:
+    id: 212731897
+    provider: vimeo
 sidebar:
   nav: "docs"
 ---
