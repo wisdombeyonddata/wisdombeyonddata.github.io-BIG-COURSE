@@ -20,13 +20,13 @@ H1: average housing price or average days employed across population is not the 
 
 `print('hello world)`
 
-'''
+```
 import pandas as pd
 
 df = pd.read_csv('cleaned.csv')
 
 test hypothesis
-'''
+```
 
 ## Concluding Remarks
 Next lesson, we will visualize these findings in a way that is interpretable. Data Storytelling :)
