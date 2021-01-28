@@ -41,17 +41,23 @@ collections:
 
 # Defaults
 defaults:
-  # _posts/_portfolio
+  # _posts
   - scope:
       path: ""
-      type: portfolio
+      type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      show_date: true
+      # _posts/_portfolio
+  -# scope:
+   #   path: ""
+    #  type: portfolio
+    #values:
+    #  layout: single
+    #  author_profile: true
+    #  read_time: true
+    #  comments: true
+    #  share: true
+     # related: true
       
 include:
   - _pages
