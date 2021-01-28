@@ -7,7 +7,7 @@ entries_layout: grid
 classes: wide
 sidebar:
   nav:
-  'docs'
+  "docs"
 ---
 
 This course covers Python for Data Science:
