@@ -5,6 +5,9 @@ permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
+sidebar:
+  nav:
+  'docs'
 ---
 
 This course covers Python for Data Science:
