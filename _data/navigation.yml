@@ -18,7 +18,7 @@ docs:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
-        url: /portfolio/Lesson3/
+        url: /portfolio/lesson3/
       - title: "Course Structure"
         url: /docs/structure/
       - title: "Installation"
