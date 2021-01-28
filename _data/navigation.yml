@@ -3,6 +3,7 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
+    description: "Open Course"
   - title: "Tags"
     url: /tags/
   - title: "About"
