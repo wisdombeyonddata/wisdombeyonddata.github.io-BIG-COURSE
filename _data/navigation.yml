@@ -26,7 +26,7 @@ docs:
       - title: "Upgrading"
         url: /docs/upgrading/
 
-  - title: Customization
+  - title: Finding Story
     children:
       - title: "Configuration"
         url: /docs/configuration/
@@ -39,7 +39,7 @@ docs:
       - title: "Layouts"
         url: /docs/layouts/
 
-  - title: Content
+  - title: Visualization
     children:
       - title: "Working with Posts"
         url: /docs/posts/
@@ -54,7 +54,7 @@ docs:
 
   - title: Extras
     children:
-      - title: "Stylesheets"
+      - title: "Streamlit"
         url: /docs/stylesheets/
-      - title: "JavaScript"
+      - title: "Personal blog"
         url: /docs/javascript/
