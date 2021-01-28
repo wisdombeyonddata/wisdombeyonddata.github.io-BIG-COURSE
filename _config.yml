@@ -112,6 +112,9 @@ defaults:
       path: "_portfolio"
       type: portfolio
     values:
+      toc: true
+      toc_label: "Table of Contents"
+      toc_icon: "clipboard-list"
       layout: single
       author_profile: true
       read_time: true
