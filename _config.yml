@@ -37,6 +37,20 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  # _posts/_portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
       
 include:
   - _pages
