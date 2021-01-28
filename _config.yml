@@ -48,7 +48,7 @@ defaults:
     values:
       show_date: true
       # _posts/_portfolio
-  -# scope:
+  # scope:
    #   path: ""
     #  type: portfolio
     #values:
