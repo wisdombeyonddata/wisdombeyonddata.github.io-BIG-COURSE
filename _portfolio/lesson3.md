@@ -1,7 +1,11 @@
 ---
 title: "Lesson 3"
 excerpt: "Hypothesis Testing"
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
+
 
 # Hello World!
 
