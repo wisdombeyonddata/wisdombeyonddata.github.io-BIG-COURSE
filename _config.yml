@@ -121,6 +121,20 @@ defaults:
       comments: true
       share: true
       related: true
+  # _research
+    scope:
+      path: "_research"
+      type: research
+    values:
+      toc: true
+      toc_label: "Table of Contents"
+      toc_icon: "clipboard-list"
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 category_archive:
   type: liquid
