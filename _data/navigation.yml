@@ -4,14 +4,14 @@ main:
   - title: "Research"
     url: /categories/
    # description: "Open Course"
-  - title: "Tags"
-    url: /tags/
+  #- title: "Tags"
+  #  url: /tags/
   - title: "About"
     url: /about/
   - title: "Tutorials"
     url: /portfolio/
-  - title: "Home"
-    url: /
+#  - title: "Home"
+ #   url: /
     
    
 docs:
