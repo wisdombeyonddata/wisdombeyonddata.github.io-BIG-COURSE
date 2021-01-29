@@ -120,6 +120,8 @@ defaults:
       read_time: true
       comments: true
       share: true
+      sidebar:
+        nav: "docs"
       related: true
   # _research
     scope:
@@ -132,6 +134,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      sidebar:
+        nav: "docs_research"
       comments: true
       share: true
       related: true
