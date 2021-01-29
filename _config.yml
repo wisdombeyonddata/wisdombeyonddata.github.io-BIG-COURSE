@@ -120,9 +120,10 @@ defaults:
       read_time: true
       comments: true
       share: true
+      related: true
       sidebar:
         nav: "docs"
-      related: true
+        
   # _research
     scope:
       path: "_research"
