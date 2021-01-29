@@ -6,10 +6,10 @@ main:
    # description: "Open Course"
   #- title: "Tags"
   #  url: /tags/
-  - title: "About"
-    url: /about/
   - title: "Tutorials"
     url: /portfolio/
+  - title: "About"
+    url: /about/
 #  - title: "Home"
  #   url: /
     
