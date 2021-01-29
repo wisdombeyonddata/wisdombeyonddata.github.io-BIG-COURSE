@@ -12,7 +12,5 @@ sidebar:
   nav: "docs_research"
 ---
 
-sidebar:
-  nav: "docs"
 
 Document listing for my research projects
