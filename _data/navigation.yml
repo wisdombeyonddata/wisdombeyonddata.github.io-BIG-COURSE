@@ -46,3 +46,22 @@ docs:
         url: /docs/stylesheets/
       - title: "Personal blog"
         url: /docs/javascript/
+        
+docs_research:
+  - title: Information Theory
+    children:
+      - title: "Statistics"
+        url: /portfolio/lesson3/
+      - title: "Probability Theory"
+        url: /docs/structure/
+      - title: "Information Theory"
+        url: /docs/installation/
+  - title: Probabilistic Models
+    children:
+      - title: "Bayesian Models"
+      - title: "Topic Modeling"
+      - title: "Deep Models"
+   - title: Generative Models
+     children:
+      - title: "GANetwork"
+
