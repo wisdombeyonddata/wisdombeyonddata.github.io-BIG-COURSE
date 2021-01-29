@@ -9,7 +9,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 sidebar:
-  nav: "docs"
+  nav: "docs_research"
 ---
 
 sidebar:
