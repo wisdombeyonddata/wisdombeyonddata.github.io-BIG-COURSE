@@ -61,7 +61,7 @@ docs_research:
       - title: "Bayesian Models"
       - title: "Topic Modeling"
       - title: "Deep Models"
-   - title: Generative Models
+  - title: Generative Models
      children:
       - title: "GANetwrk"
 
