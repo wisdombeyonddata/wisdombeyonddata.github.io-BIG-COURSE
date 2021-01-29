@@ -1,5 +1,5 @@
 main:
-  - title: "Posts"
+  - title: "Essays"
     url: /posts/
   - title: "Categories"
     url: /categories/
@@ -8,7 +8,7 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "Course"
+  - title: "Tutorials"
     url: /portfolio/
   - title: "Home"
     url: /
