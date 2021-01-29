@@ -1,7 +1,7 @@
 main:
   - title: "Essays"
     url: /posts/
-  - title: "Categories"
+  - title: "Research"
     url: /categories/
    # description: "Open Course"
   - title: "Tags"
