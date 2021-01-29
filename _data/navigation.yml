@@ -63,5 +63,5 @@ docs_research:
       - title: "Deep Models"
    - title: Generative Models
      children:
-      - title: "GANetwork"
+      - title: "GANetwrk"
 
