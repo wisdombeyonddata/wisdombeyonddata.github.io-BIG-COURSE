@@ -108,7 +108,7 @@ defaults:
       layout: single
       author_profile: true
   # _portfolio
-    scope:
+  - scope:
       path: "_portfolio"
       type: portfolio
     values:
