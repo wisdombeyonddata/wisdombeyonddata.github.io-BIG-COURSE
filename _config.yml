@@ -90,7 +90,7 @@ footer:
 # Defaults
 defaults:
   # _posts
-   - scope:
+  - scope:
       path: ""
       type: posts
     values:
@@ -101,14 +101,14 @@ defaults:
       share: true
       related: true
   # _pages
-   - scope:
+  - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
   # _portfolio
-   - scope:
+  - scope:
       path: "_portfolio"
       type: portfolio
     values:
@@ -124,7 +124,7 @@ defaults:
       sidebar:
         nav: "docs"
   # _research
-   - scope:
+  - scope:
       path: "_research"
       type: research
     values:
