@@ -87,6 +87,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
 
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -95,7 +96,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      show_date: true
       read_time: true
       comments: true
       share: true
