@@ -123,9 +123,8 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
-        
   # _research
-    scope:
+   - scope:
       path: "_research"
       type: research
     values:
