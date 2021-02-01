@@ -1,15 +1,16 @@
 ---
-title: "Lesson 3"
+title: "Lesson 3 - Relationships"
 excerpt: "Hypothesis Testing"
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "Lesson Outline"
 toc_icon: "cog"
+author_profile: false
 sidebar:
   nav: "docs"
 ---
 
 
-# Hello World!
+## Hello World!
 
 > In this lesson we will take the ideas from our exploratory analysis and turn them into hypothesis to test.
 
