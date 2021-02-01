@@ -1,0 +1,28 @@
+# /_data/authors.yml
+
+Eva:
+  name        : "Eva van Rooijen"
+  bio         : "cool stuff hereeeee"
+  avatar      : "/assets/images/image.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:evav.rooijen@live.nl"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://wisdombeyonddata.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/evalikesdata"
+
+Course1:
+  name        : "Course Name"
+  bio         : "An introduction to Machine Learning with Python"
+  avatar      : "/assets/images/logo circle.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"
