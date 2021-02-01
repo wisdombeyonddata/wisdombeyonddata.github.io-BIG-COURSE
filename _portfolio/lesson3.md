@@ -7,6 +7,8 @@ toc_icon: "cog"
 author: "Course1"
 sidebar:
   nav: "docs"
+header:
+  image: https://unsplash.com/photos/IYQn4fITu5g
 ---
 
 
