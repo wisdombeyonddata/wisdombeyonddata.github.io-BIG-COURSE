@@ -3,6 +3,7 @@ title: Open Course
 layout: collection
 permalink: /open-course/
 collection: portfolio
+author: 
 # entries_layout: grid
 classes: wide
 toc: true
