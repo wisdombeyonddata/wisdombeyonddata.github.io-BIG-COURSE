@@ -3,7 +3,7 @@ title: Open Course
 layout: collection
 permalink: /portfolio/
 collection: portfolio
-entries_layout: grid
+# entries_layout: grid
 classes: wide
 toc: true
 toc_label: "My Table of Contents"
