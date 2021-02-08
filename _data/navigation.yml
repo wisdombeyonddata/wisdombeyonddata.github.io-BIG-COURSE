@@ -46,6 +46,22 @@ docs:
         url: /docs/javascript/
         
 docs_research:
+  - title: Macroeconomics
+    children:
+      - title: "Statistics"
+        url: /portfolio/lesson3/
+      - title: "Probability Theory"
+        url: /docs/structure/
+      - title: ""
+        url: /docs/installation/
+  - title: Climate modeling
+    children:
+      - title: "Bayesian Models"
+      - title: "Information Theory"
+      - title: "Topic Modeling"
+      - title: "Deep Models"
+      
+docs_course:
   - title: Information Theory
     children:
       - title: "Statistics"
