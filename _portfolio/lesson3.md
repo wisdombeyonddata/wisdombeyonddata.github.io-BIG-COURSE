@@ -4,7 +4,7 @@ excerpt: "Hypothesis Testing"
 toc: true
 toc_label: "Lesson Outline"
 toc_icon: "cog"
-author: "Course1"
+author: "Eva"
 sidebar:
   nav: "docs"
 header:
