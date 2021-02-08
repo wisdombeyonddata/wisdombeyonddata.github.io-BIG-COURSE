@@ -13,4 +13,6 @@ sidebar:
 ---
 
 
-Document listing for my research projects
+Find articles of our research projects in the left sidebar menu
+
+Our research focuses on macroeconomics and climate modeling. We think these two fields should merge more and more to find efficient solutions to current problems.
