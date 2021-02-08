@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Go to Open Course"
       url: "/open-course/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  Nerds who love data. Two women writing about research, data, economics and climate.<br />
   <small><a href="https://www.wisdombeyonddata.github.io">Our Blog</a></small>
 feature_row:
   - image_path: /assets/images/lamp.png
