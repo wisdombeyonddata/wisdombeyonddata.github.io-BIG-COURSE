@@ -1,7 +1,7 @@
 ---
 title: Open Course
 layout: collection
-permalink: /portfolio/
+permalink: /open-course/
 collection: portfolio
 # entries_layout: grid
 classes: wide
