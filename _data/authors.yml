@@ -14,6 +14,21 @@ Eva:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/evalikesdata"
+      
+Navya:
+  name        : "Navya Srivastave"
+  bio         : "cool stuff hereeeee"
+  avatar      : "/assets/images/image.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:evav.rooijen@live.nl"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://wisdombeyonddata.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/evalikesdata"
 
 Course1:
   name        : "Course Name"
