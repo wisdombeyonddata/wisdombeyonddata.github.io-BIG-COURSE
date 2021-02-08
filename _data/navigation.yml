@@ -3,12 +3,10 @@ main:
     url: /posts/
   - title: "Research"
     url: /research/
-    #url: /categories/
-   # description: "Open Course"
   #- title: "Tags"
   #  url: /tags/
   - title: "Tutorials"
-    url: /portfolio/
+    url: /open-course/
   - title: "About"
     url: /about/
 #  - title: "Home"
