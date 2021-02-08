@@ -1,7 +1,7 @@
 ---
 title: "Macro Econ"
 last_modified_at: 2021-02-09
-Author: "Navya"
+author: "Navya"
 categories:
   - Blog
   - Essays
