@@ -10,7 +10,7 @@ header:
       url: "/open-course/"
 excerpt: >
   Nerds who love data. Two women writing about research, data, economics and climate.<br />
-  # <small><a href="https://www.wisdombeyonddata.github.io">Our Blog</a></small>
+  <!-- <small><a href="https://www.wisdombeyonddata.github.io">Our Blog</a></small> -->
 feature_row:
   - image_path: /assets/images/lamp.png
     alt: "customizable"
