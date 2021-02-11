@@ -6,30 +6,30 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/spacex-OHOU-5UVIYQ-unsplash.jpg
   actions:
-    - label: "<i class='fas fa-pencil'></i> Go to course"
+    - label: "<i class="fa fa-pencil" aria-hidden="true"></i> Go to Open Course"
       url: "/open-course/"
 excerpt: >
- Nerds who love data. Two women writing about research, data, economics and climate.<br />
+  Nerds who love data. Two women writing about research, data, economics and climate.<br />
 feature_row:
   - image_path: /assets/images/lamp.png
     alt: "customizable"
-    title: "Essays"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "Super customizable"
+    excerpt: "Everything from the methods can be found in the tutorial menu"
+    url: "/open-course/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/lamp.png
     alt: "fully responsive"
-    title: "Research"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    title: "Responsive layouts"
+    excerpt: "Cool posts"
+    url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/lamp.png
     alt: "100% free"
-    title: "Tutorials"
+    title: "100% free"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
