@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/spacex-OHOU-5UVIYQ-unsplash.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Go to Open Course"
+    - label: "<i class="fa fa-pencil" aria-hidden="true"></i> Go to Open Course"
       url: "/open-course/"
 excerpt: >
   Nerds who love data. Two women writing about research, data, economics and climate.<br />
