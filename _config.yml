@@ -114,10 +114,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _portfolio
+  # _tutorials
   - scope:
-      path: "_portfolio"
-      type: portfolio
+      path: "_tutorials"
+      type: tutorials
     values:
       toc: true
       toc_label: "Table of Contents"
