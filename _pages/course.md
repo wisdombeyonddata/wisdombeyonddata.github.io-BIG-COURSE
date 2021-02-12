@@ -1,5 +1,5 @@
 ---
-title: Open Course
+title: Tutorials
 layout: collection
 permalink: /tutorials/
 collection: tutorials
