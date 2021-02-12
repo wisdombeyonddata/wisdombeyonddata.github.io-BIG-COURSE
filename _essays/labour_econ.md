@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/spacex-OHOU-5UVIYQ-unsplash.jpg
   actions:
     - label: "<i class='fas fa-pencil'></i> Go to essays"
-      url: "/posts/"
+      url: "/essays/"
 excerpt: >
  Cool Story.<br />
 categories:
