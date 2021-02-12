@@ -1,6 +1,6 @@
 ---
 title: "Recent Essays"
 permalink: /essays/
-layout: essays
+layout: posts
 author_profile: true
 ---
