@@ -1,6 +1,7 @@
 ---
 title: "Macro Econ"
 last_modified_at: 2021-02-09
+url: "/essays/"
 author: Navya
 header:
   overlay_color: "#5e616c"
