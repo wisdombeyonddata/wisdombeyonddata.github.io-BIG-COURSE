@@ -96,7 +96,7 @@ footer:
 defaults:
   # _essays
   - scope:
-      path: ""
+      path: "_essays"
       type: essays
     values:
       layout: single
