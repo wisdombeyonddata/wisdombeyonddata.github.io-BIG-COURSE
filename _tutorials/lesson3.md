@@ -7,8 +7,6 @@ toc_icon: "cog"
 author: "Eva"
 sidebar:
   nav: "docs"
-header:
-  image: https://unsplash.com/photos/IYQn4fITu5g
 ---
 
 
