@@ -1,5 +1,5 @@
 ---
-title: "Macro Econ"
+title: "Automation in the Workplace"
 last_modified_at: 2021-02-09
 author: Navya
 header:
