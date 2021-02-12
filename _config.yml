@@ -68,21 +68,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Eva van Rooijen"
-  avatar : "/assets/images/IMG_20191103_133729.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-  #  - label: "Website"
-   #   icon: "fas fa-fw fa-link"
-    #  url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/evalikesdata"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/evavanrooijen"
-
 footer:
   links:
     - label: "Twitter"
