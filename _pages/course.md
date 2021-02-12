@@ -3,7 +3,6 @@ title: Tutorials
 layout: collection
 permalink: /tutorials/
 collection: tutorials
-author: 
 entries_layout: grid
 classes: wide
 toc: true
@@ -12,6 +11,8 @@ toc_icon: "cog"
 sidebar:
   nav: "docs"
 ---
+
+
 Welcome to our Open Course page!
 Here you will find all of the tutorials on the methods we use in our own research projects.
 
