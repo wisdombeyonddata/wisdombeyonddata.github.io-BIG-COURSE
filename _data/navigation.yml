@@ -9,41 +9,31 @@ main:
     url: /open-course/
   - title: "About"
     url: /about/
-#  - title: "Home"
- #   url: /
-    
-   
+  
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /
       - title: "Course Structure"
-        url: /
         
   - title: Getting Started      
       - title: "Data Sources"
-        url: /
 
   - title: Visualization
     children:
       - title: "Information Representation"
-        url: /
+        url: /research/
 
   - title: Extras
     children:
       - title: "Streamlit"
-        url: /
         
 docs_research:
   - title: Macroeconomics
     children:
       - title: "Labour Markets"
-        url: /
   - title: Climate modeling
     children:
       - title: "Probability Theory"
-        url: /
       - title: "Bayesian Models"
       - title: "Information Theory"
       
