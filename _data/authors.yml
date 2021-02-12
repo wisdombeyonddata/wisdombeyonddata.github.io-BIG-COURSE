@@ -21,7 +21,7 @@ Eva:
 Navya:
   name        : "Navya Srivastava"
   bio         : "cool stuff here"
-  avatar      : "/assets/images/image.jpg"
+  avatar      : "/assets/images/navya-profile.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
