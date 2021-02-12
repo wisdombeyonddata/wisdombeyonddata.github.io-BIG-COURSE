@@ -14,9 +14,8 @@ docs:
   - title: Getting Started
     children:
       - title: "Course Structure"
-        
-  - title: Getting Started      
-      - title: "Data Sources"
+      - title: Getting Started      
+  - title: "Data Sources"
 
   - title: Visualization
     children:
