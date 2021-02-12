@@ -27,14 +27,11 @@ Navya:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:"
 
-Course1:
+Course:
   name        : "Course Name"
   bio         : "An introduction to Machine Learning with Python"
   avatar      : "/assets/images/logo circle.png"
   links:
-    - label: "Email"
+    - label: "Sign-Up"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
+      url: "/tutorials/"
