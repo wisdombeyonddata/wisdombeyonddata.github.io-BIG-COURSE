@@ -1,5 +1,7 @@
 ---
-title: "Post: Standard"
+title: "Essay Template"
+last_modified: 2021-02-12
+author: navya
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
