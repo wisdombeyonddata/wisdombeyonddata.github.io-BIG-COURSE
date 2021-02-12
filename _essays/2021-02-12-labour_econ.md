@@ -5,9 +5,6 @@ author: Navya
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/spacex-OHOU-5UVIYQ-unsplash.jpg
-  actions:
-    - label: "<i class='fas fa-pencil'></i> Go to essays"
-      url: "/essays/"
 excerpt: >
  Cool Story.<br />
 categories:
