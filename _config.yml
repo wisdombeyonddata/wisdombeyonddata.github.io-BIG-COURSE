@@ -99,7 +99,10 @@ defaults:
       path: "_essays"
       type: essays
     values:
-      layout: posts
+      toc: true
+      toc_label: "Find Recent Essays"
+      toc_icon: "clipboard-list"
+      layout: single
       author_profile: true
       read_time: true
       share: true
