@@ -1,9 +1,9 @@
 ---
-title: "Post: Notice"
+title: "Essay: Notice"
 categories:
   - Blog
 tags:
-  - Post Formats
+  - Essay Formats
   - notice
 ---
 
