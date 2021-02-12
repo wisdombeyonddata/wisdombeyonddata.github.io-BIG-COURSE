@@ -7,7 +7,7 @@ entries_layout: grid
 classes: wide
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/spacex-OHOU-5UVIYQ-unsplash.jpg
+  overlay_image: https://unsplash.com/photos/GDokEYnOfnE
 excerpt: >
  Nerds who love data. Two women writing about research, data, economics and climate.<br />
 toc: true
