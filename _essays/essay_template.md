@@ -2,6 +2,7 @@
 title: "Essay Template"
 last_modified: 2021-02-12
 author: navya
+url: /essays/
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
