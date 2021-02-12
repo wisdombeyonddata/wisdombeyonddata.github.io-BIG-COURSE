@@ -2,6 +2,14 @@
 title: "Macro Econ"
 last_modified_at: 2021-02-09
 author: Navya
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/spacex-OHOU-5UVIYQ-unsplash.jpg
+  actions:
+    - label: "<i class='fas fa-pencil'></i> Go to essays"
+      url: "/posts/"
+excerpt: >
+ Cool Story.<br />
 categories:
   - Blog
   - Essays
