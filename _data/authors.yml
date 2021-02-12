@@ -2,33 +2,30 @@
 
 Eva:
   name        : "Eva van Rooijen"
-  bio         : "cool stuff hereeeee"
-  avatar      : "/assets/images/image.jpg"
+  bio         : "Hello World!"
+  avatar      : "/assets/images/20180415_173704_0255.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:evav.rooijen@live.nl"
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://wisdombeyonddata.com"
+      url: "https://linkedin.com/evavanrooijen"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/evalikesdata"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://github.com/evavanrooijen"
       
 Navya:
   name        : "Navya Srivastava"
-  bio         : "cool stuff hereeeee"
+  bio         : "cool stuff here"
   avatar      : "/assets/images/image.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:evav.rooijen@live.nl"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://wisdombeyonddata.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/evalikesdata"
+      url: "mailto:"
 
 Course1:
   name        : "Course Name"
