@@ -37,7 +37,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 collections:
-  portfolio:
+  tutorials:
     output: true
     permalink: /:collection/:path/
   research:
@@ -77,7 +77,6 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
 
-# Defaults
 defaults:
   # _essays
   - scope:
