@@ -1,6 +1,6 @@
 main:
   - title: "Essays"
-    url: /posts/
+    url: /essays/
   - title: "Research"
     url: /research/
   - title: "Tags"
