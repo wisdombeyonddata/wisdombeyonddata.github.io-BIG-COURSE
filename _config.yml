@@ -103,8 +103,8 @@ defaults:
       #toc: true
       #toc_label: "Table of Contents"
       #toc_icon: "clipboard-list"
-      sidebar:
-        nav: "docs"
+      #sidebar:
+       # nav: "docs"
   # _tutorials
   - scope:
       path: "_tutorials"
