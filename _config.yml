@@ -32,7 +32,7 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 breadcrumbs: true  
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5 # amount of links to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -94,15 +94,14 @@ footer:
 
 # Defaults
 defaults:
-  # _posts
+  # _essays
   - scope:
       path: ""
-      type: posts
+      type: essays
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
       share: true
       related: true
       show_date: true
