@@ -2,7 +2,7 @@
 title: "Introducing animals"
 excerpt: "Excerpt of this lesson about animals, animals are important, lets love animals."
 header:
-  image: /assets/images/spacex-OHOU-5UVIYQ-unsplash.jpg
+  overlay_image: /assets/images/spacex-OHOU-5UVIYQ-unsplash.jpg
 sidebar:
   - title: "Topic"
     image: /assets/images/my-awesome-post-teaser.jpg.jpg
