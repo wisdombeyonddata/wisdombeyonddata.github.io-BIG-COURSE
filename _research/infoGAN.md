@@ -1,5 +1,6 @@
 ---
 Title: InfoGAN 
+author: Eva
 Category: Representation Learning
 ---
 
