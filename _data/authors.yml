@@ -3,7 +3,7 @@
 Eva:
   name        : "Eva van Rooijen"
   bio         : "Hello World!"
-  avatar      : "https://www.instagram.com/p/BpaIM34iSCp/?utm_source=ig_web_copy_link"
+  avatar      : "assets/images/pavillion_eva.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -21,7 +21,7 @@ Eva:
 Navya:
   name        : "Navya Srivastava"
   bio         : "cool stuff here"
-  avatar      : "https://www.instagram.com/p/BpaIM34iSCp/?utm_source=ig_web_copy_link"
+  avatar      : "assets/images/navya_profile.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
