@@ -3,8 +3,6 @@ main:
     url: /essays/
   - title: "Research"
     url: /research/
-  - title: "Tags"
-    url: /tags/
   - title: "Tutorials"
     url: /tutorials/
   - title: "About"
