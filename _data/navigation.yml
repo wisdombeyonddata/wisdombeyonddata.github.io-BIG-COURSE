@@ -52,7 +52,7 @@ docs_course:
     children:
       - title: "GANetwork"
       
-docs_essays:
-- title: Labour Market
-- title: Environment
-- title: Social Issues
+#docs_essays:
+#- title: Labour Market
+#- title: Environment
+#- title: Social Issues
