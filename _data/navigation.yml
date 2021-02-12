@@ -3,8 +3,8 @@ main:
     url: /posts/
   - title: "Research"
     url: /research/
-  #- title: "Tags"
-  #  url: /tags/
+  - title: "Tags"
+    url: /tags/
   - title: "Tutorials"
     url: /tutorials/
   - title: "About"
