@@ -1,13 +1,13 @@
 ---
 title: Open Course
 layout: collection
-permalink: /open-course/
-collection: portfolio
+permalink: /tutorials/
+collection: tutorials
 author: 
-# entries_layout: grid
+entries_layout: grid
 classes: wide
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "Table of Contents"
 toc_icon: "cog"
 sidebar:
   nav: "docs"
