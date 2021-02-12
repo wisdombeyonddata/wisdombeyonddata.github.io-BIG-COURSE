@@ -1,6 +1,6 @@
 ---
 title: "Post: Quote"
-permalink: /essays/
+url: "/essays/"
 categories:
   - Blog
 tags:
