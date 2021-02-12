@@ -3,7 +3,7 @@
 Eva:
   name        : "Eva van Rooijen"
   bio         : "Hello World!"
-  avatar      : "/assets/images/20180415_173704_0255.jpg"
+  avatar      : "/assets/images/IMG_20191103_133729.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
