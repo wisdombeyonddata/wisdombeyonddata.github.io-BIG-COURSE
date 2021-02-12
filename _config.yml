@@ -148,4 +148,4 @@ tag_archive:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "Wisdom Beyond Data"
+    shortname: "wisdombeyonddata"
