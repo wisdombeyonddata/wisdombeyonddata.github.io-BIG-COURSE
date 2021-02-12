@@ -1,16 +1,16 @@
 ---
-title: "Foo Bar Lesson"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Introducing animals"
+excerpt: "Excerpt of this lesson about animals, animals are important, lets love animals."
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/spacex-OHOU-5UVIYQ-unsplash.jpg
+  teaser: /assets/images/my-awesome-post-teaser.jpg.jpg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
+  - title: "Topic"
+    image: /assets/images/my-awesome-post-teaser.jpg.jpg
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Exploratory Analysis"
+  - title: "Module"
+    text: "Descriptive Statistics"
 gallery:
   - url: /assets/images/my-awesome-post-teaser.jpg.jpg
     image_path: assets/images/my-awesome-post-teaser.jpg.jpg
