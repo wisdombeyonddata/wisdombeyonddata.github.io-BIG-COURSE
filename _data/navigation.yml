@@ -51,4 +51,8 @@ docs_course:
   - title: Generative Models
     children:
       - title: "GANetwork"
-
+      
+docs_essays:
+- title: Labour Market
+- title: Environment
+- title: Social Issues
