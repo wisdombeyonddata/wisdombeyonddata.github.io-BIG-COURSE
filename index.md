@@ -15,7 +15,7 @@ feature_row:
     alt: "customizable"
     title: "Essays"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    url: "/essays/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/lamp.png
