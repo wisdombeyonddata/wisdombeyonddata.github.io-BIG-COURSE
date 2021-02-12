@@ -17,49 +17,35 @@ docs:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
-        url: /portfolio/lesson3/
+        url: /
       - title: "Course Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /blog/upgrading/
+        url: /
+        
+  - title: Getting Started      
+      - title: "Data Sources"
+        url: /
 
   - title: Visualization
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+      - title: "Information Representation"
+        url: /
 
   - title: Extras
     children:
       - title: "Streamlit"
-        url: /docs/stylesheets/
-      - title: "Personal blog"
-        url: /docs/javascript/
+        url: /
         
 docs_research:
   - title: Macroeconomics
     children:
-      - title: "Statistics"
-        url: /portfolio/lesson3/
-      - title: "Probability Theory"
-        url: /docs/structure/
-      - title: ""
-        url: /docs/installation/
+      - title: "Labour Markets"
+        url: /
   - title: Climate modeling
     children:
+      - title: "Probability Theory"
+        url: /
       - title: "Bayesian Models"
       - title: "Information Theory"
-      - title: "Topic Modeling"
-      - title: "Deep Models"
       
 docs_course:
   - title: Information Theory
