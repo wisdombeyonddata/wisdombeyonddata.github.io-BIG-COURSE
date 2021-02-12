@@ -3,10 +3,10 @@ main:
     url: /essays/
   - title: "Research"
     url: /research/
-  #- title: "Tags"
-  #  url: /tags/
+  - title: "Tags"
+    url: /tags/
   - title: "Tutorials"
-    url: /open-course/
+    url: /tutorials/
   - title: "About"
     url: /about/
   
