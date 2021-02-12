@@ -5,6 +5,11 @@ permalink: /tutorials/
 collection: tutorials
 entries_layout: grid
 classes: wide
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/spacex-OHOU-5UVIYQ-unsplash.jpg
+excerpt: >
+ Nerds who love data. Two women writing about research, data, economics and climate.<br />
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
