@@ -1,7 +1,7 @@
 main:
-  - title: "Essays"
+  - title: "Blog"
     url: /essays/
-  - title: "Research"
+  - title: "Installation"
     url: /research/
   - title: "Tutorials"
     url: /tutorials/
